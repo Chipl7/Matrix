@@ -42,11 +42,5 @@ The project is a library for working with matrices. Written in the C programming
 4. Run make for build
 
 ```bash
-  make gcc
-```
-
-5. Run test
-
-```bash
-  make test
+  make all
 ```
