@@ -36,7 +36,7 @@ The project is a library for working with matrices. Written in the C programming
 3. Src dir
 
 ```bash
-  cd src/cat
+  cd src
 ```
 
 4. Run make for build
